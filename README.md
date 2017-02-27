@@ -1,5 +1,5 @@
 ## Intro
-Use npm package: vue-simple-audio
+Use npm package: vue-simple-audio. Thanks for this package: https://github.com/lavyun/vue-simple-audio
 
 ## install
 yarn install
