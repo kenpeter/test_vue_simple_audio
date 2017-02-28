@@ -25,10 +25,6 @@ export default {
     return {
       songs: [
         {
-          'url': 'http://stream.shopshop.space/audio/不会弹吉他的吉他侠_《友情岁月》_161120.mp3',
-          'songname': '《友情岁月》_161120'
-        },
-        {
           'url': 'http://stream.shopshop.space/audio/蒙面唱将猜猜猜_EP10_快要崩溃的一哥_感觉自己萌萌哒_《你怎么舍得我难过》_161120.mp3',
           'songname': '《你怎么舍得我难过》_161120'
         },
